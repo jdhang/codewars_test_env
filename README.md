@@ -1,4 +1,4 @@
-# codewars_test_env
+# Codewars Test Environment
 Test Environment for Codewar Problems
 
 This is a way to do testing in the browser with your own text editor instead of the in-browser one in Codewars.
